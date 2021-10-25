@@ -1,3 +1,5 @@
+!(https://img.shields.io/badge/Sarcasm-High-critical.svg)
+
 # Awesome Secret Scanner
 A sarcastic list of all the secret scanners
 
