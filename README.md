@@ -1,4 +1,4 @@
-!(https://img.shields.io/badge/Sarcasm-High-critical.svg)
+![Sarcasm: High]((https://img.shields.io/badge/Sarcasm-High-critical.svg "Sarcasm: High")
 
 # Awesome Secret Scanner
 A sarcastic list of all the secret scanners
