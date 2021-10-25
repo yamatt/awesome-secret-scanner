@@ -13,6 +13,7 @@ To contribute please raise a pull request
 
 * [Detect Secrets](https://github.com/Yelp/detect-secrets) An enterprise friendly way of detecting and preventing secrets in code.  [![Build Status](https://travis-ci.com/Yelp/detect-secrets.svg?branch=master)](https://travis-ci.com/Yelp/detect-secrets)
 * [Git Secrets](https://github.com/awslabs/git-secrets) An enterprise friendly way of preventing you from committing secrets and credentials into git repositories
+* [Secret Scanner](https://github.com/grab/secret-scanner) No description, website, or topics provided.
 
 # Ones with Git in their name
 
