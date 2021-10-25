@@ -1,5 +1,5 @@
 # Awesome Secret Scanner
-A sarcastic list of secret scanners
+A sarcastic list of all the secret scanners
 
 To contribute please raise a pull request
 
