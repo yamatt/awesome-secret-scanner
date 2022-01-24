@@ -16,6 +16,7 @@ To contribute please raise a pull request
 * [Detect Secrets](https://github.com/Yelp/detect-secrets) An enterprise friendly way of detecting and preventing secrets once you've pushed them to your repo.  [![Build Status](https://travis-ci.com/Yelp/detect-secrets.svg?branch=master)](https://travis-ci.com/Yelp/detect-secrets)
 * [Git Secrets](https://github.com/awslabs/git-secrets) An enterprise friendly way of annoying you when you can't work out why you can't push your code
 * [Secret Scanner](https://github.com/grab/secret-scanner) `[No description, website, or topics provided.]`
+* [Detect Secrets Stream](https://github.com/IBM/detect-secrets-stream) This IBM made version can detect leaks in your steam
 
 # Ones with Git in their name
 
