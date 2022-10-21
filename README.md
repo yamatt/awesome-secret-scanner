@@ -22,8 +22,9 @@ To contribute please raise a pull request
 
 * [GitLeaks](https://github.com/zricethezav/gitleaks) Use regular expressions to find secrets [![Build Status](https://github.com/zricethezav/gitleaks/actions/workflows/test.yml/badge.svg)](https://github.com/zricethezav/gitleaks/actions/workflows/test.yml)
 * [Git Secrets](https://github.com/awslabs/git-secrets) This has both secrets and git in its name
+* [sshgit](https://github.com/eth0izzle/shhgit) if you like ones that look like obscenities 
 
 # Send your secrets to other people to be analysed
 
 * [ggshield](https://github.com/GitGuardian/ggshield) Named for everyones favourite secret leaking newspaper ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/GitGuardian/ggshield/Application%20Main%20Branch?style=for-the-badge)
-* [Trugglehog](https://trufflesecurity.com/trufflehog) Go all ChatOps with secrets in your Slack
+* [Trufflehog](https://trufflesecurity.com/trufflehog) Go all ChatOps with secrets in your Slack
