@@ -27,8 +27,8 @@ To contribute please raise a pull request
 
 # Ones named after sci-fi defense systems or movies
 
-* [Crenox](https://github.com/crenoxhq/crenox) Because "Sentinel" sounded too much like a security product that blocks threats instead of just annoying you.
-Note: This project was formerly known as Sentinel.
+* [Crenox](https://github.com/crenoxhq/crenox) (Formerly Sentinel) Because "Sentinel" sounded too much like a security product that blocks threats instead of just annoying you.
+
 # Send your secrets to other people to be analysed
 
 * [ggshield](https://github.com/GitGuardian/ggshield) Named for everyones favourite secret leaking newspaper ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/GitGuardian/ggshield/Application%20Main%20Branch?style=for-the-badge)
