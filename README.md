@@ -27,7 +27,7 @@ To contribute please raise a pull request
 
 # Ones named after sci-fi defense systems or movies
 
-* [Sentinel](https://github.com/sentinel-cli/sentinel) Named after the robotic squids in the Matrix, just in case you wanted your code scanned by a machine sentinel.
+* [Crenox](https://github.com/crenoxhq/crenox) (Formerly Sentinel) Because "Sentinel" sounded too much like a security product that blocks threats instead of just annoying you.
 
 # Send your secrets to other people to be analysed
 
